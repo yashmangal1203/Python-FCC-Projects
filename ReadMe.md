@@ -7,7 +7,7 @@ This Repository is **only** for those projects which are made as part of my FCC 
 
 - [x] Arithmetic Formatter
 - [x] Time Calculator
-- Budget App
+- [x] Budget App
 - Polygon Area Calculator
 - Probability Calculator
   
